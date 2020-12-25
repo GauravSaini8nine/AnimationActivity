@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animation Activity</string>
+    <string name="your_progress">Your Progress</string>
+    <string name="education_is_what_remains_after_one_has_forgotten_what_one_has_learned_in_school">Education is what remains after one has forgotten what one has learned in school.</string>
+    <string name="albert_einstein">– Albert Einstein</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+</resources>
